@@ -1,1 +1,1 @@
-console.log("aaaaaaaa");
+console.log("this is origin a.js");
